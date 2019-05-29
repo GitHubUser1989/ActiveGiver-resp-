@@ -1,0 +1,17 @@
+{
+  "name": "activegiver",
+  "version": "1.0.0",
+  "description": "active giver bootstrap project improved",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
